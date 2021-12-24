@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-typescript-blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fibbly/nodejs-typescript-blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fibbly/nodejs-typescript-blockchain/issues"
+  },
+  "homepage": "https://github.com/fibbly/nodejs-typescript-blockchain#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.4",
+    "typescript": "^4.5.4"
+  }
+}
